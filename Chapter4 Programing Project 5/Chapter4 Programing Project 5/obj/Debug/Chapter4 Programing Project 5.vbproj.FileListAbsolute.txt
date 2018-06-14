@@ -1,0 +1,11 @@
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter4 Programing Project 5\Chapter4 Programing Project 5\bin\Debug\Chapter4 Programing Project 5.exe.config
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter4 Programing Project 5\Chapter4 Programing Project 5\bin\Debug\Chapter4 Programing Project 5.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter4 Programing Project 5\Chapter4 Programing Project 5\bin\Debug\Chapter4 Programing Project 5.pdb
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter4 Programing Project 5\Chapter4 Programing Project 5\bin\Debug\Chapter4 Programing Project 5.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter4 Programing Project 5\Chapter4 Programing Project 5\obj\Debug\Chapter4_Programing_Project_5.frmMenu.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter4 Programing Project 5\Chapter4 Programing Project 5\obj\Debug\Chapter4_Programing_Project_5.Resources.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter4 Programing Project 5\Chapter4 Programing Project 5\obj\Debug\Chapter4 Programing Project 5.vbproj.GenerateResource.Cache
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter4 Programing Project 5\Chapter4 Programing Project 5\obj\Debug\Chapter4 Programing Project 5.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter4 Programing Project 5\Chapter4 Programing Project 5\obj\Debug\Chapter4 Programing Project 5.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter4 Programing Project 5\Chapter4 Programing Project 5\obj\Debug\Chapter4 Programing Project 5.pdb
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chapter4 Programing Project 5\Chapter4 Programing Project 5\obj\Debug\Chapter4 Programing Project 5.vbprojResolveAssemblyReference.cache

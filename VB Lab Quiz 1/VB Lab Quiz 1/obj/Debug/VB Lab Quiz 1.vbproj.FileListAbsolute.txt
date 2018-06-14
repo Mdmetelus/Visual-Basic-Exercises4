@@ -1,0 +1,10 @@
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\VB Lab Quiz 1\VB Lab Quiz 1\bin\Debug\VB Lab Quiz 1.exe.config
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\VB Lab Quiz 1\VB Lab Quiz 1\bin\Debug\VB Lab Quiz 1.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\VB Lab Quiz 1\VB Lab Quiz 1\bin\Debug\VB Lab Quiz 1.pdb
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\VB Lab Quiz 1\VB Lab Quiz 1\bin\Debug\VB Lab Quiz 1.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\VB Lab Quiz 1\VB Lab Quiz 1\obj\Debug\VB_Lab_Quiz_1.frmTraficLight.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\VB Lab Quiz 1\VB Lab Quiz 1\obj\Debug\VB_Lab_Quiz_1.Resources.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\VB Lab Quiz 1\VB Lab Quiz 1\obj\Debug\VB Lab Quiz 1.vbproj.GenerateResource.Cache
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\VB Lab Quiz 1\VB Lab Quiz 1\obj\Debug\VB Lab Quiz 1.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\VB Lab Quiz 1\VB Lab Quiz 1\obj\Debug\VB Lab Quiz 1.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\VB Lab Quiz 1\VB Lab Quiz 1\obj\Debug\VB Lab Quiz 1.pdb
