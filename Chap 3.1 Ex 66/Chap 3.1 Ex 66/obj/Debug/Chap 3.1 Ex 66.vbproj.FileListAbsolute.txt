@@ -1,0 +1,10 @@
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap 3.1 Ex 66\Chap 3.1 Ex 66\bin\Debug\Chap 3.1 Ex 66.exe.config
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap 3.1 Ex 66\Chap 3.1 Ex 66\obj\Debug\Chap_3._1_Ex_66.Form1.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap 3.1 Ex 66\Chap 3.1 Ex 66\obj\Debug\Chap_3._1_Ex_66.Resources.resources
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap 3.1 Ex 66\Chap 3.1 Ex 66\obj\Debug\Chap 3.1 Ex 66.vbproj.GenerateResource.Cache
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap 3.1 Ex 66\Chap 3.1 Ex 66\bin\Debug\Chap 3.1 Ex 66.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap 3.1 Ex 66\Chap 3.1 Ex 66\bin\Debug\Chap 3.1 Ex 66.pdb
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap 3.1 Ex 66\Chap 3.1 Ex 66\bin\Debug\Chap 3.1 Ex 66.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap 3.1 Ex 66\Chap 3.1 Ex 66\obj\Debug\Chap 3.1 Ex 66.exe
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap 3.1 Ex 66\Chap 3.1 Ex 66\obj\Debug\Chap 3.1 Ex 66.xml
+C:\Users\Black\Documents\Visual Studio 2013\Projects\CS90\Chap 3.1 Ex 66\Chap 3.1 Ex 66\obj\Debug\Chap 3.1 Ex 66.pdb
